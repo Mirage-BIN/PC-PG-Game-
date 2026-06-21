@@ -7,7 +7,7 @@
 ## 预览
 
 <p align="center">
-  <img src="Design.png"/>
+  <img src="Design.png" width="520" />
 </p>
 
 > 首页 · 个人中心 · 在线客服 —— 覆盖核心操作链路
