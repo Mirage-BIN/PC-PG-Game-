@@ -43,6 +43,7 @@
 - 源文件及设计稿请联系面谈，不接受无偿索要
 - X:@Mirage_BIN
 - Mail:LHBloveHYT@outlook.com
+- https://x.com/Mirage_BIN/status/2068519156371300659?s=20
 
 ---
 
